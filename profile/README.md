@@ -1,6 +1,6 @@
 ## Weclome to Ornament Health 👋
 
-![Ornament background](background.jpeg)
+![Ornament background](/profile/background.jpeg)
 
 
 <!--
