@@ -1,8 +1,7 @@
 ## Weclome to Ornament Health 👋
 
-<picture>
- <img alt="Ornament Health AG" src="https://github.com/Ornament-Health/.github/blob/master/profile/background.jpeg">
-</picture>
+![Ornament background](background.jpeg)
+
 
 <!--
 
