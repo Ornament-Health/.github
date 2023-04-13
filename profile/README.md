@@ -1,6 +1,14 @@
-## Weclome to Ornament Health 👋
+## Welcome to Ornament Health 👋
 
 ![Ornament background](/profile/background.jpeg)
+
+A preventive medicine app made in Switzerland. Ornament takes care of you around the clock, assesses health risks, recommends checkups, stores test results, helps you lose weight, and answers all your health questions.
+
+### Links
+* [Ornament site](https://ornament.health/)
+* [Jobs](https://ornament.health/ru/career)
+* [App Store](https://apps.apple.com/app/ornament/id1453537030)
+* [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.ornament.monitor)
 
 
 <!--
